@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k0OtuwAV5nQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\todor\\Desktop\\rareCrew\\partTwo\\rareCrew.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\todor\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\todor\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\todor\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\todor\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
